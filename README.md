@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hey You](https://komarev.com/ghpvc/?username=NerdPlayground&color=green)
+![](https://komarev.com/ghpvc/?username=NerdPlayground&color=green)
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=NerdPlayground&theme=merko&layout=compact&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdPlayground&layout=compact&theme=merko&langs_count=10)](https://github.com/NerdPlayground/github-readme-stats)
 <img src='https://github-profile-trophy.vercel.app/?username=NerdPlayground&theme=tokyonight' >
